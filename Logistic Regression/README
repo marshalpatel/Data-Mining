@@ -1,0 +1,27 @@
+================================================
+B-659: Applied Machine Learning
+
+Vraj Parikh: parikhv@indiana.edu
+Marshal Patel: marshalp@indiana.edu
+
+===============================================
+
+--------------------------------------------------
+Steps to run the program [ Logistic Regression ]
+--------------------------------------------------
+
+1. Please make sure the dataset and jar files are in the same directory.
+
+2. In the terminal, navigate to the directory, where the jar file is located.
+
+3. Run the following command:
+
+java -jar Logistic\ Regression.jar <Train_Dataset.csv> <Test_Dataset.csv> <Class_Label_Number> <Learning_Rate> <is_convergence_rate_dependent> <Number of Iterations>
+
+# Number of iterations is only needed if is_convergence_rate_dependent = false
+
+4. All the arguements are required.
+
+5. Please make sure that there are no column headers in the dataset files.
+
+

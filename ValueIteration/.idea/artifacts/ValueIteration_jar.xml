@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ValueIteration:jar">
+    <output-path>$PROJECT_DIR$/</output-path>
+    <root id="archive" name="ValueIteration.jar">
+      <element id="module-output" name="ValueIteration" />
+    </root>
+  </artifact>
+</component>
